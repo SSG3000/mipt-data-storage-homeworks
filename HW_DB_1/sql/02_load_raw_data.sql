@@ -66,7 +66,7 @@ WITH (FORMAT CSV, HEADER TRUE, ENCODING 'UTF8');
 
 COMMIT;
 
--- Контроьные суммы для проверки:
+-- Контролные суммы для проверки:
 -- customers   = 5000
 -- products    = 300
 -- orders      = 25000
